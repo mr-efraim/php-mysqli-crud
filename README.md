@@ -1,4 +1,5 @@
-A simple PHP Class for using with MySQLi create, read, update and delete functions. Using OOP this class can easily be added to to enhance existing functions or create more.
+A simple PHP Class for using with MySQLi CRUD functions.
+Using OOP this class can easily be added to to enhance existing functions or create more.
 
 **Using The Class**
 --
